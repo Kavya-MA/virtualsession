@@ -1,0 +1,98 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-size: cover;
+}
+header
+{
+    background-color: blanchedalmond;
+    height:5em;
+}
+.headtags{
+    float: right;
+    margin-right:  50px ;
+    margin-top: 30px;
+    
+}
+.headtags a
+{
+text-decoration: none;
+border: 2px solid black;
+color:blue;
+word-spacing: 0.1em;
+    padding:8px;
+
+}
+.headtags a:hover{
+    background-color: cornflowerblue;
+    color:red;
+    transition: 0.5s ease-in-out;
+}
+img{
+
+    width: 55px;
+     margin-top: 1%;
+    margin-left: 5%;
+}
+.aside{
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color:white;
+     padding:100px;
+}
+,aside li{
+    padding:3px;
+    list-style: square;
+
+}
+.formcls{
+    color:blue;
+    border:2px solid red;
+    float:right;
+
+    background-color: beige;
+    margin-top: 5%;;
+    margin-right: 3%;
+    padding:30px;
+
+
+}
+.formcls h2{
+    text-align:center ;
+}
+.formcls logincnt{
+    text-align:center;
+    height:0.2em;
+
+}
+#but{
+    width:100%;
+    color:white;
+    background-color: blue;
+    
+    
+}
+.container{
+    margin-top:7%;
+    margin-left: 5%;
+}
+.pbox{
+    border: 3px solid white;
+    width:23%;
+    float: left;
+    margin-left:12px;
+    background-color:beige;
+    height:12em;}
+    .pbox h3{
+        text-align:center ;
+    }
+    footer{
+        height: 1.5em;
+        margin-top:30%;
+        background-color:black;
+        color:white;
+        text-align: center;
+    }
+
+   
